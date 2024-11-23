@@ -4,7 +4,7 @@ Overview
 
 Welcome to the VR port of Do You Copy?! This immersive reimagining of the thrilling indie horror game places you directly in the role of a forest ranger tasked with guiding a lost hiker to safety — or so it seems. Experience the suspense, mystery, and eerie atmosphere of the original game in a whole new dimension as you explore the tower, interact with objects, and make critical decisions in the midst of supernatural danger.
 
-![ALT text](https://github.com/Twistashio/DoYouCopyVR/blob/main/Git%20Images/gif.gif?raw=true)
+![ALT text]([https://github.com/Twistashio/DoYouCopyVR/blob/main/Git%20Images/gif.gif?raw=true](https://github.com/Twistashio/DoYouCopyVR/blob/main/Git%20Images/Screenshot%202024-11-23%20at%202.49.35%E2%80%AFAM.png?raw=true))
 
 Key Features
 
@@ -13,6 +13,9 @@ Key Features
 	•	Enhanced Atmosphere: Spatial audio, and dynamic lighting for a truly chilling experience.
 	•	Multiple Endings: Every choice matters! Your decisions will lead to different outcomes, just like in the original game.
 	•	Faithful Recreation: Maintains the core mechanics, story, and suspense of the original game while leveraging VR to deepen the experience.
+
+![ALT text](https://github.com/Twistashio/DoYouCopyVR/blob/main/Git%20Images/gif.gif?raw=true)
+
 
 System Requirements
 
@@ -25,12 +28,17 @@ Recommended:
 	•	VR Headset: Oculus Quest 2 (PC-linked), Valve Index, or similar high-end VR headset
 	•	Storage: 5 GB available space
 
+![ALT text]([https://github.com/Twistashio/DoYouCopyVR/blob/main/Git%20Images/gif.gif?raw=true](https://github.com/Twistashio/DoYouCopyVR/blob/main/Git%20Images/Screenshot%202024-11-23%20at%202.49.11%E2%80%AFAM.png?raw=true))
+
+
 Controls
 
 	•	Move/Teleport: Use your VR controller’s joystick or teleportation system.
 	•	Interact: Use the primary trigger button to interact with radios, switches, maps, and other objects.
 	•	Flashlight: Grab and activate the flashlight with your off-hand controller.
 	•	Menu: Access the pause menu using the designated menu button on your controller.
+
+![ALT text](https://github.com/Twistashio/DoYouCopyVR/blob/main/Git%20Images/gif%202.gif?raw=true)
 
 Gameplay Tips
 
